@@ -11,23 +11,23 @@ Automedivision is a deep learning-based system designed to accurately identify p
 
       Platform: Google Colab
 
-🎯 Key Features
-Achieves 90%+ accuracy in pill classification
+   # 🎯 Key Features
+      1. Achieves 90%+ accuracy in pill classification
 
-Optimized for lightweight, real-time inference
+      2. Optimized for lightweight, real-time inference
 
-Supports scenarios like mobile health, inventory systems, and emergency response
+      3. Supports scenarios like mobile health, inventory systems, and emergency response
 
-Dataset preprocessing and augmentation included
+      4. Dataset preprocessing and augmentation included
 
-Clean, modular code structure with comments for clarity
+      5. Clean, modular code structure with comments for clarity
 
-📌 Use Cases
-Medication identification for patients and pharmacists
+   # 📌 Use Cases
+      1. Medication identification for patients and pharmacists
 
-Inventory automation in pharmacies and hospitals
+      2. Inventory automation in pharmacies and hospitals
 
-Emergency identification in critical situations
+      3. Emergency identification in critical situations
 
 👨‍💻 My Role
 As part of my final year B.Tech project, I led this initiative by:
