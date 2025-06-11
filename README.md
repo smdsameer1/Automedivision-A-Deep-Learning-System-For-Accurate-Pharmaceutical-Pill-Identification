@@ -12,61 +12,60 @@ Automedivision is a deep learning-based system designed to accurately identify p
       Platform: Google Colab
 
    # 🎯 Key Features
-      1. Achieves 90%+ accuracy in pill classification
+      Achieves 90%+ accuracy in pill classification
 
-      2. Optimized for lightweight, real-time inference
+      Optimized for lightweight, real-time inference
 
-      3. Supports scenarios like mobile health, inventory systems, and emergency response
+      Supports scenarios like mobile health, inventory systems, and emergency response
 
-      4. Dataset preprocessing and augmentation included
+      Dataset preprocessing and augmentation included
 
-      5. Clean, modular code structure with comments for clarity
+      Clean, modular code structure with comments for clarity
 
    # 📌 Use Cases
-      1. Medication identification for patients and pharmacists
+      Medication identification for patients and pharmacists
 
-      2. Inventory automation in pharmacies and hospitals
+      Inventory automation in pharmacies and hospitals
 
-      3. Emergency identification in critical situations
+      Emergency identification in critical situations
 
-👨‍💻 My Role
-As part of my final year B.Tech project, I led this initiative by:
+   # 👨‍💻 My Role
+      As part of my final year B.Tech project, I led this initiative by:
 
-Designing the model architecture
+      Designing the model architecture
 
-Performing dataset cleaning and augmentation
+      Performing dataset cleaning and augmentation
 
-Training, evaluating, and tuning the MobileNet-based classifier
+      Training, evaluating, and tuning the MobileNet-based classifier
 
-Documenting the use cases and proposed real-world integration
+      Documenting the use cases and proposed real-world integration
 
-Collaborating with team members and faculty for testing and validation
+      Collaborating with team members and faculty for testing and validation
 
-📁 Project Structure
-bash
-Copy
-Edit
-Automedivision/
-│
-├── dataset/                # Pill images and class labels
-├── models/                 # Saved model files
-├── notebooks/              # Colab notebooks for training & testing
-├── utils/                  # Preprocessing, evaluation scripts
-├── requirements.txt        # Python dependencies
-└── README.md               # Project description
-🚀 Getting Started
-Clone the repo
+   # 📁 Project Structure
+      bash
+      Copy
+      Edit
+      Automedivision/
+      │
+      ├── dataset/                # Pill images and class labels
+      ├── models/                 # Saved model files
+      ├── notebooks/              # Colab notebooks for training & testing
+      ├── utils/                  # Preprocessing, evaluation scripts
+      ├── requirements.txt        # Python dependencies
+      └── README.md               # Project description
+   # 🚀 Getting Started
+      Clone the repo
 
-Install dependencies: pip install -r requirements.txt
+      Install dependencies: pip install -r requirements.txt
 
-Run the notebook in notebooks/Automedivision.ipynb
+      Run the notebook in notebooks/Automedivision.ipynb
 
-Upload your pill image and test predictions
+      Upload your pill image and test predictions
 
-📬 Contact
-Feel free to reach out for collaborations or suggestions!
+   # 📬 Contact
+      Feel free to reach out for collaborations or suggestions!
 
-Shaik Mohammed Sameer
-📧 smdsameer1@gmail.com
-🔗 GitHub
-🔗 LinkedIn
+      Shaik Mohammed Sameer
+      📧 shaikhmohammedsameer13@gmail.com
+
